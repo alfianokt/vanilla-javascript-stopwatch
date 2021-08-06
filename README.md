@@ -6,4 +6,4 @@ Projek belajar untuk membuat stopwatch dengan javascript murni (Vanilla JavaScri
 
 ## Demo
 
-https://alfianokt.github.io/vanilla-javascript-stopwatch
+https://alfianokt.github.io/vanilla-javascript-stopwatch/src/
